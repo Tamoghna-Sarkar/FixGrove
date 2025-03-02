@@ -27,7 +27,7 @@ Any suggestions?
 
 might be a python3 issue, you can try running
 python3 -V
-to see if you have python3 installed, since some dependencies are python3. Install it using atp if not.
+to see if you have python3 installed, since some dependencies are python3. Install it using "apt" if not.
 
 if that doesn't help try run running the command in my comment above, I updated it with some fixes and combined the script to do both step 3 and step 4. Make sure you're on stable internet connection as sometimes it will fail to pull something from the Internet if connection is intermittent. 
 
